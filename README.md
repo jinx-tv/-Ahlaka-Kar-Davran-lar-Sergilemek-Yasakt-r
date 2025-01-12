@@ -13,7 +13,7 @@
 
 -"Bu kadar mantıksız bir şey söyleyen kimseyi kabul etmiyorum."
 -"Böyle düşünmek gerçekten oldukça yanlış."
--:white_check_mark: Doğru:
+- Doğru:
 
 -"Fikirlerimiz farklı olabilir, ama saygılı bir şekilde konuşabiliriz."
 -"Birlikte tartışarak, birbirimize saygı gösterelim."
