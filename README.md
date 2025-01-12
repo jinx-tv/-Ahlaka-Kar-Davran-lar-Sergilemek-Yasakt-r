@@ -1,4 +1,4 @@
-# -Ahlaka-Kar-Davran-lar-Sergilemek-Yasaktır
+# -Ahlaka-Karşı Davranışlar-Sergilemek-Yasaktır.
 
 #Açıklama:
 -Bu sunucu, tüm üyelerinin birbirine karşı saygılı ve uygun bir dil kullanmasını beklemektedir. Ahlaka karşı davranışlar, topluluk değerlerine zarar verir ve sağlıklı bir iletişimin önüne geçer. Bu tür davranışlar, hakaret, küfür, cinsel içerikli paylaşımlar, ırkçı veya ayrımcı söylemler gibi her türlü zararlı iletişimi kapsar. Topluluğumuzda herkesin güvenli ve rahat bir şekilde vakit geçirebilmesi için bu tür davranışlar kesinlikle yasaktır.
